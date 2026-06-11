@@ -40,5 +40,8 @@ Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de d
 ---
 
 ### Como me encontrar
-* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/marcos-vinicius-gomes-20b0822a8)
-* **E-mail:** marcostrabalhos1@gmail.com
+---
+
+### Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-gomes-20b0822a8)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcostrabalhos1@gmail.com)
