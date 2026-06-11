@@ -16,9 +16,9 @@ Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de d
 ### Meus Projetos em Destaque
 
 #### 1. Automação de Processos e Auditoria de Documentos com IA
-* **Descrição:** Desenvolvimento de um assistente inteligente estruturado para automatizar a auditoria, extração e separação de documentos fiscais e financeiros. A solução realiza a análise completa de arquivos PDF, identifica blocos de pagamento por engenharia de prompt avançada, extrai dados estruturados para relatórios em Excel e realiza o recorte automatizado das páginas originais das NFs utilizando bibliotecas de código (PyPDF2/PyMuPDF).
-* **Impacto e Resultados:** Redução do tempo de processamento manual de **1 a 2 horas para apenas 20 minutos**, eliminação de erros operacionais de análise e tratamento customizado para fluxos não comportados pelo sistema padrão.
-* **Tags:** `Generative AI` `Prompt Engineering` `Process Automation` `Data Extraction` `Python`
+* **Descrição:** Projeto desenvolvido como iniciativa estratégica de um Plano de Desenvolvimento Individual e atualmente **aplicado e homologado em ambiente corporativo** para automatizar a auditoria, extração e separação de documentos fiscais e financeiros. A solução realiza a analise completa de arquivos PDF longos, identifica blocos de pagamento por engenharia de prompt avançada, extrai dados estruturados para relatórios em Excel e realiza o recorte automatizado das páginas originais das NFs utilizando bibliotecas de código (PyPDF2/PyMuPDF).
+* **Impacto e Resultados:** Adotado oficialmente pela operação, o assistente reduziu o tempo de processamento manual de **1 a 2 horas para apenas 20 minutos**, eliminando erros operacionais de fadiga e absorvendo fluxos customizados de clientes VIP não comportados pelo ERP padrão da empresa.
+* **Tags:** `Corporate Solution` `PDI Project` `Generative AI` `Prompt Engineering`
 
 #### 2. Projeto Integrador - Análise de Sentimentos em Avaliações
 * **Descrição:** Desenvolvimento de um projeto de dados integrado utilizando bases de dados da **AWS**. Aplicação de modelos de Processamento de Linguagem Natural (PLN) como **LeIA, VADER e Transformers** para identificação, extração e comparação de sentimentos em comentários e avaliações.
@@ -42,14 +42,6 @@ Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de d
 | **2. Projeto Integrador AWS** | Python, AWS, LeIA, VADER, Transformers | Extração de bases da nuvem e uso de modelos de PLN para classificar sentimentos em comentários. |
 | **3. Data Warehouse Copa** | SQL, Modelagem Dimensional | Estruturação de modelo Estrela (tabela fato e dimensões) e desenvolvimento de queries. |
 | **4. Análise Kaggle** | Python, Pandas, Data Visualization | Análise de dados brutos do Kaggle, geração de gráficos, criação de banner e artigo técnico. |
----
-### Mapeamento de Competências Técnicas
-
-| Projeto | Ferramentas Utilizadas | Aplicação Prática no Projeto |
-| :--- | :--- | :--- |
-| **Projeto Integrador AWS** | Python, AWS, LeIA, VADER, Transformers | Extração de bases da nuvem e uso de modelos de PLN para classificar sentimentos em comentários. |
-| **Data Warehouse Copa** | SQL, Modelagem Dimensional | Estruturação de modelo Estrela (tabela fato e dimensões) e desenvolvimento de queries. |
-| **Análise Kaggle** | Python, Pandas, Data Visualization | Análise de dados brutos do Kaggle, geração de gráficos, criação de banner e artigo técnico. |
 
 ---
 
