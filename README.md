@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos Vinicius.
 
-Estudante de análise de dados pelo **SENAI Suíço-Brasileira**. Tenho experiência com regras de negócio, compliance e processos financeiros, e atualmente unindo esta visão à inteligência de dados e programação.
+Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de dados pelo **SENAI Suíço-Brasileira**. Tenho experiência com regras de negócio, compliance e processos financeiros, e atualmente unindo esta visão à inteligência de dados e programação.
 
 ---
 
@@ -29,14 +29,16 @@ Estudante de análise de dados pelo **SENAI Suíço-Brasileira**. Tenho experiê
 
 ---
 
-### Minhas Estatísticas do GitHub
+### Mapeamento de Competências Técnicas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosVGomes1&show_icons=true&theme=visionary&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Estatísticas do GitHub de Marcos" height="150em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVGomes1&layout=compact&langs_count=7&theme=visionary&hide_title=true&hide_border=true" alt="Linguagens Mais Usadas" height="150em" />
-</p>
+| Projeto | Ferramentas Utilizadas | Aplicação Prática no Projeto |
+| :--- | :--- | :--- |
+| **Projeto Integrador AWS** | Python, AWS, LeIA, VADER, Transformers | Extração de bases da nuvem e uso de modelos de PLN para classificar sentimentos em comentários. |
+| **Data Warehouse Copa** | SQL, Modelagem Dimensional | Estruturação de modelo Estrela (tabela fato e dimensões) e desenvolvimento de queries. |
+| **Análise Kaggle** | Python, Pandas, Data Visualization | Análise de dados brutos do Kaggle, geração de gráficos, criação de banner e artigo técnico. |
 
 ---
 
 ### Como me encontrar
-* **LinkedIn:** [Acesse meu perfil profissional]([https://www.linkedin.com](https://www.linkedin.com/in/marcos-vinicius-gomes-20b0822a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/marcos-vinicius-gomes-20b0822a8)
+* **E-mail:** marcostrabalhos1@gmail.com
