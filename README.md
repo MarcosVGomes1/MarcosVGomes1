@@ -32,8 +32,8 @@ Estudante de análise de dados pelo **SENAI Suíço-Brasileira**. Tenho experiê
 ### Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosVGomes1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Marcos" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVGomes1&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosVGomes1&show_icons=true&theme=visionary&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Estatísticas do GitHub de Marcos" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVGomes1&layout=compact&langs_count=7&theme=visionary&hide_title=true&hide_border=true" alt="Linguagens Mais Usadas" height="150em" />
 </p>
 
 ---
