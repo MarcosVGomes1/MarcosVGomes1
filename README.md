@@ -1,7 +1,14 @@
 # Olá, eu sou o Marcos Vinicius.
 
 Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de dados pelo **SENAI Suíço-Brasileira**. Tenho experiência com regras de negócio, compliance e processos financeiros, e atualmente unindo esta visão à inteligência de dados e programação.
+---
 
+### Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ---
 
 ### Meus Projetos em Destaque
