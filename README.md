@@ -16,8 +16,7 @@ Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de d
 ### Meus Projetos em Destaque
 
 #### 1. Automação de Processos e Auditoria de Documentos com IA
-* **Descrição:** Projeto desenvolvido como iniciativa estratégica de um Plano de Desenvolvimento Individual e atualmente **aplicado e homologado em ambiente corporativo** para automatizar a auditoria, extração e separação de documentos fiscais e financeiros. A solução realiza a analise completa de arquivos PDF longos, identifica blocos de pagamento por engenharia de prompt avançada, extrai dados estruturados para relatórios em Excel e realiza o recorte automatizado das páginas originais das NFs utilizando bibliotecas de código (PyPDF2/PyMuPDF).
-* **Impacto e Resultados:** Adotado oficialmente pela operação, o assistente reduziu o tempo de processamento manual de **1 a 2 horas para apenas 20 minutos**, eliminando erros operacionais de fadiga e absorvendo fluxos customizados de clientes VIP não comportados pelo ERP padrão da empresa.
+* **Descrição:** Projeto desenvolvido como iniciativa estratégica de um Plano de Desenvolvimento Individual e atualmente **aplicado em ambiente corporativo** para automatizar a conferência, extração e separação de documentos financeiros. A solução realiza a analise completa de arquivos PDF, identifica blocos de pagamento por engenharia de prompt, extrai dados estruturados para relatórios em Excel e realiza o recorte automatizado das páginas originais das NFs utilizando bibliotecas de código (PyPDF2/PyMuPDF).
 * **Tags:** `Corporate Solution` `PDI Project` `Generative AI` `Prompt Engineering`
 
 #### 2. Projeto Integrador - Análise de Sentimentos em Avaliações
@@ -25,7 +24,7 @@ Tenho 24 anos, sou residente de **São Paulo - SP** e estudante de análise de d
 * **Tags:** `AWS` `NLP` `Python` `Transformers` `VADER`
 
 #### 3. Data Warehouse da Copa do Mundo
-* **Descrição:** Construção completa de um ambiente de Data Warehouse focado na análise estatística histórica das Copas do Mundo. Realizei desde a modelagem Estrela, definindo tabela fato e dimensões, até a implementação do zero e desenvolvimento das queries em banco de dados para futuras práticas de SQL estruturado.
+* **Descrição:** Construção completa de um ambiente de Data Warehouse focado na análise estatística das Copas do Mundo. Realizei desde a modelagem Estrela, definindo tabela fato e dimensões, até a implementação do zero e desenvolvimento das queries em banco de dados para futuras práticas de SQL estruturado.
 * **Tags:** `Data Warehouse` `SQL` `Modelagem Dimensional` `Star Schema`
 
 #### 4. Análise Exploratória de Dados (Kaggle) + Artigo
